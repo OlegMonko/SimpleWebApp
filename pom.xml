@@ -3,7 +3,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.mcharopkin.server</groupId>
 <artifactId>SimpleWebApp</artifactId>
-<packaging>war</packaging>
+<packaging>jar</packaging>
 <version>1.0.${buildNumber}</version>
 <name>SimpleWebApp</name>
 <url>http://maven.apache.org</url>
